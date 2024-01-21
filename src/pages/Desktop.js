@@ -391,7 +391,7 @@ const Desktop = () => {
                     <img
                       className="h-[31px] w-[31px] relative overflow-hidden shrink-0 z-[2]"
                       alt=""
-                      src="/carparking-1.svg"
+                      src="/ringing-1.svg"
                     />
                   </button>
                   <div className="flex flex-col items-start justify-start gap-[10px]">
@@ -444,12 +444,12 @@ const Desktop = () => {
                   </div>
                 </div>
                 <div className="flex flex-row items-center justify-start py-0 pr-[25px] pl-0 gap-[14px] text-left">
-                  <button className="cursor-pointer [border:none] pt-3.5 pb-[25px] pr-[23px] pl-[17px] bg-aliceblue h-[70px] w-[71px] rounded-41xl flex flex-row items-start justify-start box-border z-[1]">
+                  <button className="cursor-pointer [border:none] pt-[17px] pb-[25px] pr-[23px] pl-[23px] bg-aliceblue h-[70px] w-[71px] rounded-41xl flex flex-row items-start justify-start box-border z-[1]">
                     <div className="h-[70px] w-[71px] relative rounded-41xl bg-aliceblue hidden" />
                     <img
                       className="h-[31px] w-[31px] relative overflow-hidden shrink-0 z-[2]"
                       alt=""
-                      src="/carparking-1.svg"
+                      src="/airconditioner.png"
                     />
                   </button>
                   <div className="flex flex-col items-start justify-start gap-[10px]">
@@ -505,7 +505,7 @@ const Desktop = () => {
                     <img
                       className="h-[31px] w-[31px] relative overflow-hidden shrink-0 z-[2]"
                       alt=""
-                      src="/carparking-1.svg"
+                      src="/swimming-1.svg"
                     />
                   </button>
                   <div className="flex flex-col items-start justify-start gap-[10px]">
@@ -739,10 +739,10 @@ const Desktop = () => {
               />
               <div className="w-full my-0 mx-[!important] absolute top-[-350px] left-[150px] flex flex-row flex-wrap items-start justify-start pt-0 pb-[376px] pr-[495px] pl-[519px] box-border gap-[45px] max-w-full">
                 <div className="w-[calc(100%_-_923px)] absolute my-0 mx-[!important] h-[calc(100%_+_620px)] top-[0px] right-[-215px] bottom-[-620px] left-[1138px] bg-gray-200 [filter:blur(201px)] [transform:_rotate(90deg)] [transform-origin:0_0] z-[2]" />
-                <h1 className="my-0 mx-[!important] h-[43px] absolute top-[-7px] left-[-197px] text-inherit capitalize font-semibold font-inherit inline-block z-[3] mq450:text-3xl">
+                <h1 className="my-0 mx-[!important] h-[43px] absolute top-[-7px] left-[-270px] text-inherit capitalize font-semibold font-inherit inline-block z-[3] mq450:text-3xl">
                   Bhau Daji Lad Museum
                 </h1>
-                <h1 className="my-0 mx-[!important] h-[43px] absolute top-[78px] left-[-197px] text-inherit capitalize font-semibold font-inherit inline-block z-[3] mq450:text-3xl">
+                <h1 className="my-0 mx-[!important] h-[43px] absolute top-[78px] left-[-270px] text-inherit capitalize font-semibold font-inherit inline-block z-[3] mq450:text-3xl">
                   Magen David Synagogue
                 </h1>
                 <div className="flex flex-col items-start justify-start pt-[13px] px-0 pb-0">
