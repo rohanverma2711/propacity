@@ -33,6 +33,3 @@ pids
 # OS-specific
 Thumbs.db
   
-
-#api urls
-apiConfig.js
