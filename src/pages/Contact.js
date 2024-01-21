@@ -1,9 +1,9 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import axios, { Axios } from "axios";
-import { googleSheetApi } from "../api-config";
+import { googleSheetApi } from "../apiConfig";
 
-import { propacityApi } from "../api-config";
+import { propacityApi } from "../apiConfig";
 
 const Contact = () => {
   const [success, setSuccessMessage] = useState(false);
